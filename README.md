@@ -1,7 +1,7 @@
 # Ticapsoriginal making integrity LOG 
 * Create log file with SHA and MD5 hash code for each file
 
-#make python environment:
+## make python environment:
 * Install pip first:
 <pre><code>sudo apt-get install python3-pip
 </code></pre>
