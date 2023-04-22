@@ -30,4 +30,7 @@
 
 * any change on file change SHA hash code
 
-[`100% pycodestyle coverage`](https://pypi.org/project/pycodestyle/)
+## quality:
+* [`100% pycodestyle coverage`](https://pypi.org/project/pycodestyle/)
+
+* [`0% code plagiarism detected`](https://github.com/blingenf/copydetect)
