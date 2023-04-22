@@ -1,4 +1,4 @@
-# Ticapsoriginal making integrity LOG 
+# Ticapsoriginal making integrity Log 
 * Create log file with sha and md5 hash code for each file
 
 ## make python environment:
