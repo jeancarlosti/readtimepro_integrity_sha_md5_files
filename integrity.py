@@ -6,7 +6,7 @@ import hashlib
 from pathlib import Path
 
 # INPUT THE FOLDER WITH FILES TO MAKE SHA AND MD5 CODES
-folder = './ticapsoriginal'
+folder = './yourfolder'
 # CREATE INTEGRITY FOLDER TO STORAGE SHA OR MD5 LOG
 os.mkdir('./integrity/')
 # WALK IN THE FOLDER DIRECTORY, SUBFOLDERS AND FILES
