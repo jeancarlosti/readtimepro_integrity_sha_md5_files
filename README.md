@@ -1,4 +1,4 @@
-# Ticapsoriginal making integrity Log 
+# readtimepro making integrity Log 
 * Create log file with sha and md5 hash code for each file
 
 ## make python environment:
@@ -19,14 +19,12 @@
 </code></pre>
 
 ## clone Ticapsoriginal_integrity_sha_md5_files repository:
-<pre><code> git clone https://github.com/Tinoco/Ticapsoriginal_integrity_sha_md5_files.git
+<pre><code> git clone https://github.com/Tinoco/readtimepro_integrity_sha_md5_files.git
 </code></pre>
 
 ## make Integrity log:
 <pre><code> python integrity.py
 </code></pre>
-
-![](https://ticapsoriginal.com/static/integrity.png)
 
 * any change on file change SHA hash code
 
@@ -36,4 +34,4 @@
 * [`0% code plagiarism detected`](https://github.com/blingenf/copydetect)
 
 ## about:
-* code and resource used in [`Ticapsoriginal`](https://ticapsoriginal.com)
+* code and resource used in [`readtimepro`](https://readtime.pro)
