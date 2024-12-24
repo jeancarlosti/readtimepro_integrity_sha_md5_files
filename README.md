@@ -19,7 +19,7 @@
 </code></pre>
 
 ## clone Ticapsoriginal_integrity_sha_md5_files repository:
-<pre><code> git clone https://github.com/Tinoco/readtimepro_integrity_sha_md5_files.git
+<pre><code> git clone https://github.com/jeancarlosti/readtimepro_integrity_sha_md5_files.git
 </code></pre>
 
 ## make Integrity log:
